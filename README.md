@@ -23,4 +23,4 @@ Here is a link to the built APK
 
 # Me?
 
-[Behon Baker](https://behon.baker.com)
+[Behon Baker](https://behonbaker.com)
